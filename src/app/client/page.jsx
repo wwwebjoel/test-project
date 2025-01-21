@@ -154,12 +154,7 @@ export default function ClientPage() {
         >
           Rearrange Dates
         </div>
-        <div
-          onClick={() => datesWithGapField(dates)}
-          className="bg-blue-200 hover:bg-blue-400 mt-10 text-center text-black py-4 px-10 rounded-sm m-auto cursor-pointer"
-        >
-          Rearrange Dates
-        </div>
+      
       </div>
     </div>
   );
